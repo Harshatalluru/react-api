@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Harshatalluru.github.io/react-api/static/css/main.e6ed3caa.chunk.css",
-    "main.js": "/Harshatalluru.github.io/react-api/static/js/main.2c828af0.chunk.js",
-    "main.js.map": "/Harshatalluru.github.io/react-api/static/js/main.2c828af0.chunk.js.map",
-    "runtime-main.js": "/Harshatalluru.github.io/react-api/static/js/runtime-main.4a318573.js",
-    "runtime-main.js.map": "/Harshatalluru.github.io/react-api/static/js/runtime-main.4a318573.js.map",
-    "static/js/2.e71e98ef.chunk.js": "/Harshatalluru.github.io/react-api/static/js/2.e71e98ef.chunk.js",
-    "static/js/2.e71e98ef.chunk.js.map": "/Harshatalluru.github.io/react-api/static/js/2.e71e98ef.chunk.js.map",
-    "static/js/3.d046b43e.chunk.js": "/Harshatalluru.github.io/react-api/static/js/3.d046b43e.chunk.js",
-    "static/js/3.d046b43e.chunk.js.map": "/Harshatalluru.github.io/react-api/static/js/3.d046b43e.chunk.js.map",
-    "index.html": "/Harshatalluru.github.io/react-api/index.html",
-    "static/css/main.e6ed3caa.chunk.css.map": "/Harshatalluru.github.io/react-api/static/css/main.e6ed3caa.chunk.css.map",
-    "static/js/2.e71e98ef.chunk.js.LICENSE.txt": "/Harshatalluru.github.io/react-api/static/js/2.e71e98ef.chunk.js.LICENSE.txt"
+    "main.css": "/react-api/static/css/main.e6ed3caa.chunk.css",
+    "main.js": "/react-api/static/js/main.2c828af0.chunk.js",
+    "main.js.map": "/react-api/static/js/main.2c828af0.chunk.js.map",
+    "runtime-main.js": "/react-api/static/js/runtime-main.919f9a95.js",
+    "runtime-main.js.map": "/react-api/static/js/runtime-main.919f9a95.js.map",
+    "static/js/2.e71e98ef.chunk.js": "/react-api/static/js/2.e71e98ef.chunk.js",
+    "static/js/2.e71e98ef.chunk.js.map": "/react-api/static/js/2.e71e98ef.chunk.js.map",
+    "static/js/3.d046b43e.chunk.js": "/react-api/static/js/3.d046b43e.chunk.js",
+    "static/js/3.d046b43e.chunk.js.map": "/react-api/static/js/3.d046b43e.chunk.js.map",
+    "index.html": "/react-api/index.html",
+    "static/css/main.e6ed3caa.chunk.css.map": "/react-api/static/css/main.e6ed3caa.chunk.css.map",
+    "static/js/2.e71e98ef.chunk.js.LICENSE.txt": "/react-api/static/js/2.e71e98ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a318573.js",
+    "static/js/runtime-main.919f9a95.js",
     "static/js/2.e71e98ef.chunk.js",
     "static/css/main.e6ed3caa.chunk.css",
     "static/js/main.2c828af0.chunk.js"
